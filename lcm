@@ -1,0 +1,5 @@
+import math
+n1=6
+n2=12
+n3=math.lcm(n1,n2)
+print(n3)
