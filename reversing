@@ -1,0 +1,2 @@
+str="devipriya"
+print(str[::-1])
